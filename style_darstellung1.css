@@ -1,0 +1,66 @@
+
+#text {
+    font-family: 'Urbanist', sans-serif;
+    font-size:medium;
+    color: whitesmoke;
+    float: left;
+    width: 55%;
+}
+#images {
+    float: right;
+    width: 40%;
+    margin-top: 11%;
+    color: whitesmoke;
+}
+.earth30 {
+    line-height: 1;
+}
+.earth30 p{
+    font-family: 'Inconsolata', monospace;
+}
+h3 {
+    font-family: 'Audiowide', cursive;
+    color: rgb(62, 238, 62);
+    font-size: 300%;
+    position: relative;
+}
+.berlin30 {
+    margin-top: 3%;
+}
+h4, h5 {
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(62, 238, 62);
+    font-size: 180%;
+}
+.links {
+    margin-top: 5%;
+}
+h6 {
+    font-family: 'Inconsolata', monospace;
+    color: whitesmoke;
+    font-size: 100%;
+    font-weight: lighter;
+}
+#fig1 img{
+    width: 80%;
+    height: auto;
+}
+#fig2 img{
+    width: 80%;
+    height: auto;
+}
+figcaption {
+    padding-right: 20%;
+    font-family: 'Inconsolata', monospace;
+    font-size: small;
+    font-style: italic;
+    text-align: right;
+}
+.links li a {
+    text-decoration: none;
+    font-family: 'Inconsolata', monospace;
+    color: rgb(62, 238, 62);
+}
+.links li a:hover{
+    text-decoration: underline;
+}
