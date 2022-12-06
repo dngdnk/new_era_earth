@@ -1,4 +1,8 @@
-
+.pg1 {
+    background-color: rgb(62, 238, 62);
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+}
 #text {
     font-family: 'Urbanist', sans-serif;
     font-size:medium;
@@ -24,7 +28,7 @@ h3 {
     font-size: 300%;
     position: relative;
 }
-.berlin30 {
+.ny30 {
     margin-top: 3%;
 }
 h4, h5 {
